@@ -5,4 +5,7 @@ free -m
 
 echo "Create a directory"
 mkdir Sachin
+
+touch surendra upendra
+
 echo "completed"
