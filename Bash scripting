@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "This is a command to see memory usage"
+free -m
+
+echo "Create a directory"
+mkdir Sachin
+echo "completed"
